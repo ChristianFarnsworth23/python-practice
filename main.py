@@ -1,12 +1,24 @@
-print("Hello World")
-print("Why is it so dark?")
-print("I hope it won't be dark for a long time")
 
-#Print 1st
-print("The Suicide Squad")
+#define function
+def topFiveMovies():
+    
+    #print first movie
+    print("Lord of he Rings")
+    
+    #print first movie
+    print("Whiplash")
+    
+    #print first movie
+    print("Pacific Rim")
+    
+    #print first movie
+    print("Rick and Morty")
+   
+    #print first movie
+    print("Invincible")
 
-#Print 2nds
-print("Rick and Morty")
+topFiveMovies()
+print("Avatar")
 
-#Print 3rd
-print("Invincible")
+def topThreeSports():
+    
