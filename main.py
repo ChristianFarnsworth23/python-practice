@@ -46,6 +46,7 @@ def fiveSauces(sauce):
 
 def define(definition):
     definition = definition.lower()
+    definition = definition.upper()
     if definition == "Tomato":
         return "Red fruit used to make various foods"
     
